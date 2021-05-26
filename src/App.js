@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './components/login_components/frolic.svg';
 import './App.css';
 
 function App() {
@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Learn, Develop and Test in the Clouds with confidence!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/thecyberscythe/free_tier_frolic"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Free-Tier Frolic
         </a>
       </header>
     </div>
