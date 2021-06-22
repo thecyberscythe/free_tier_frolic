@@ -1,5 +1,6 @@
 # Happy Frolicking!
 ![Frolic Logo](frolic.png)
+
 The Free-Tier Frolic Project is designed to be an application to manage
 the Big 3 public cloud providers free-tiers to minimize the surprise
 billing when trying or developing on these clouds. 
@@ -17,7 +18,7 @@ allow the flexibility to deploy to Kubernetes or use Docker-Compose
 
 Project Task List
 ====
-----
+
 ### Frontend
 
 - [ ] Application Login

@@ -7,4 +7,33 @@
         margin: 0 auto;
         max-width: 320px;
     }
+
+
+}
+.logo{
+    display: flex;
+    height: auto;
+    width: 250px;
+    align-items: center;
+    justify-content: center;
+}
+.email-input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 150px;
+}
+.password-input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 150px;
+}
+.button-input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 150px;
+    background-color: #3306cd;
+
 }
